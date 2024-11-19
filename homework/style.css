@@ -1,0 +1,49 @@
+* {
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  height: 100%;
+  width: 17rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.navbar ul li {
+  padding: 13px;
+  border: 1px solid;
+}
+.navbar ul li a {
+  color: #818181;
+  display: block;
+}
+article {
+  margin: 2rem 2rem 0 19rem;
+}
+/* .introd {
+  margin-left: 17rem;
+} */
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  text-align: justify; /* to make all the test finish in the same way */
+}
+.content ul li {
+  margin-block-end: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 2em;
+}
+code {
+  display: block;
+  background-color: #eee;
+  padding: 20px;
+  border: 1px solid black;
+}
+/* .introd {
+  margin-left: 17rem;
+}
+.introd .content{
+    margin-top: 12px;
+} */
